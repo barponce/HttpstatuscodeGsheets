@@ -1,5 +1,6 @@
 # HttpstatuscodeGsheets
 HttpStatuscode for Gsheets SEO
+
 With the deployment of this personalized script you can use the formula httpstatuscode(), to get the status code of the urls stored in a Google Sheet, so SEO tasks become easier :) 
 
 1- Open Google Sheets
